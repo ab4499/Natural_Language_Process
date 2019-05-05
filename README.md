@@ -68,6 +68,10 @@ Word count:
 
 ![sentiment](https://github.com/ab4499/Natural_Language_Process/blob/master/graphs/Sentiment.png "github")
 
+#### LDA Topic Modelling
+
+Using the same csv file you have generated the LDA analysis will treat each row of the data frame as a document. 
+
 #### Generate a visualization showing: 
 
 - Sentiment for each week and 
