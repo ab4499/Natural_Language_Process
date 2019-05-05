@@ -2,6 +2,8 @@
 
 Introduction and simple practice with NLP
 
+![npl1](https://github.com/ab4499/Natural_Language_Process/blob/master/graphs/npl1.jpeg)
+
 The use of natural language processing has exploded over the last decade. Appilcations that require machines to understand natural human speech patterns are abundant and substantial improvements in these systems has increased their utility. Within the educational space NLP is used to interpret human speech for the prupose of understanding human problems and recently an online tutor passed a limited version of the [Turing Test](https://en.wikipedia.org/wiki/Turing_test) when it was [indistinguishable from teaching assistants in a college class](https://www.news.gatech.edu/2017/01/09/jill-watson-round-three).
 
 This project will process a set of documents, running a sentiment analysis of thise documents and then generating topic models of those documents. The documents we will be using will be student notes from a class. 
@@ -59,14 +61,20 @@ Word count:
 
 #### Generate a Word Cloud
 
+![word_cloud](https://github.com/ab4499/Natural_Language_Process/blob/master/graphs/Word_cloud.png "github")
 
+#### Merge with week list
+#### Generate a visualization of the sum of the sentiment score over weeks
 
+![sentiment](https://github.com/ab4499/Natural_Language_Process/blob/master/graphs/Sentiment.png "github")
 
+#### Generate a visualization showing: 
 
+- Sentiment for each week and 
 
+- One important topic for that week
 
-
-
+![sentiment_topic](https://github.com/ab4499/Natural_Language_Process/blob/master/graphs/Sentiment_topic.png "github")
 
 
 
